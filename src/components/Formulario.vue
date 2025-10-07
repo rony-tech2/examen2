@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Formulario de prueba</h1>
+    <h1>Formulario</h1>
     <div class="form">
       <form @submit.prevent="validarFormulario">
         <label>Nombre:</label>
